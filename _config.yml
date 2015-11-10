@@ -122,7 +122,7 @@ safe: false
 highlighter: pygments
 title: Zhous
 description: Stay Hungry,Stay Foolish。
-theme: hack
+theme: midnight
 disqusname: zhous712
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
