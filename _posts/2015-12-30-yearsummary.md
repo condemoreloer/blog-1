@@ -18,6 +18,7 @@ comments: true
 #读书
 这一年茶余饭后和闲暇之时还是没忘记阅读的，接下来分享一下这一年读的几本书吧。
 技术相关类：
+
 * [JavaScript高级层序设计](http://book.douban.com/subject/10546125/)
 * [编程之美](http://book.douban.com/subject/3004255/)
 * [C# in Depth](http://book.douban.com/subject/20490085/)
@@ -28,12 +29,14 @@ comments: true
 * [MacTalk 跨越边界](http://book.douban.com/subject/26663519/)
 
 文学小说和杂文类：
+
 * [平凡的世界](http://book.douban.com/subject/1084165/)
 * [围城](http://book.douban.com/subject/1008145/)
 * [我所理解的生活](http://book.douban.com/subject/20425053/)
 * [乖，摸摸头](http://book.douban.com/subject/25984204/)
 
 财富类：
+
 * [富爸爸财务自由之路](http://book.douban.com/subject/1007510/)
 * [MBA教不了的创富课](http://book.douban.com/subject/5921213/)
 
