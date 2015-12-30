@@ -17,6 +17,7 @@ comments: true
 
 #读书
 这一年茶余饭后和闲暇之时还是没忘记阅读的，接下来分享一下这一年读的几本书吧。
+
 技术相关类：
 
 * [JavaScript高级层序设计](http://book.douban.com/subject/10546125/)
