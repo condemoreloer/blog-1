@@ -41,6 +41,7 @@ comments: true
 * [MBA教不了的创富课](http://book.douban.com/subject/5921213/)
 
 #新年计划
+
 1.驾照（该科三了，再不考就到期了）
 2.造轮子，提升技术，再学一门编程语言
 3.读完自己目前的Reading list
