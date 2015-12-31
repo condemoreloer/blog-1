@@ -5,7 +5,7 @@ category: 生活
 comments: true
 ---
 
-![24258.jpg](/images/2016.jpg)
+![](/images/2016.jpg)
 
 #前言
 >逝者如斯夫，不舍昼夜
