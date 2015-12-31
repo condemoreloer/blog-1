@@ -5,7 +5,7 @@ category: 生活
 comments: true
 ---
 
-![](https://github.com/zhous712/blog/tree/gh-pages/images/2016.jpg)
+![](https://github.com/zhous712/blog/blob/gh-pages/images/2016.jpg?raw=true)
 
 #前言
 >逝者如斯夫，不舍昼夜
