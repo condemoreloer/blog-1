@@ -5,7 +5,7 @@ category: 生活
 comments: true
 ---
 
-![24258.jpg](http://upload-images.jianshu.io/upload_images/1183342-48d66a15ae4be842.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![24258.jpg](/images/2016.jpg)
 
 #前言
 >逝者如斯夫，不舍昼夜
