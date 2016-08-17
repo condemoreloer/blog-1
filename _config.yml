@@ -120,7 +120,7 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: Zhous
+title: Zhous杂感
 description: Stay Hungry,Stay Foolish。
 theme: slate
 disqusname: zhous712
